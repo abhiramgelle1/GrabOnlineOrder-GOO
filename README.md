@@ -4,10 +4,7 @@
 **GitHub:** [abhiramgelle1](https://github.com/abhiramgelle1)  
 **Email:** abhiramgelle738@gmail.com  
 
-<p align="center">
-  <img src="appLogo.png" alt="GOO Logo" width="180">
-</p>
----
+<img src="GooAppLogo.png" alt="GOO Logo" width="250" height="200">
 
 ## Overview
 
